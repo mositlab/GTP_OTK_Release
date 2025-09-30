@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>0.0.5.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <url>https://github.com/mositlab/GTP_OTK_Release/releases/download/0.0.5.0/publish.zip</url>
+  <changelog>https://github.com/mositlab/GTP_OTK_Release/releases</changelog>
   <mandatory>false</mandatory>
 </item>
